@@ -11,4 +11,3 @@
 # New classifier.pkl file will be generated
 
 # Now Run "uvicorn app:app --reload"
-# FastAPI
